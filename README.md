@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuzaffar-shma
-- 👀 I’m interested in developingpython applications
+- 👀 I’m interested in developing python applications
 - 🌱 I’m currently learning different frameworks and databases along with optimization
 
 <!---
